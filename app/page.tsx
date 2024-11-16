@@ -7,9 +7,9 @@ export default function Home() {
   return (
     <div>
 
-      <Hero></Hero>
-      <CarCard></CarCard>
-      <Form></Form>
+      <Hero/>
+      <CarCard/>
+      <Form/>
     </div>
   );
 }
